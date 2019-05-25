@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>ziptest</title>
+    <body>
+    
+          <input type="file" id="myFile">
+        var x = document.getElementById("myFile");
+        var y = document.createElement("INPUT");
+        y.setAttribute("type", "file");
+    </body>
+  </head>       
+</html>
+      
